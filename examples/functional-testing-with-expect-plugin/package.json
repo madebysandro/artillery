@@ -12,5 +12,23 @@
   "dependencies": {
     "express": "^4.17.1",
     "sqlite3": "^5.0.2"
+  },
+  "overrides": {
+    "axios": "1.20.0",
+    "brace-expansion@1": "1.1.21",
+    "brace-expansion@2": "2.1.7",
+    "browserslist": "4.29.4",
+    "form-data@2": "2.5.6",
+    "form-data@3": "3.0.5",
+    "form-data@4": "4.0.6",
+    "http-cache-semantics": "4.3.0",
+    "js-yaml@3": "3.15.2",
+    "json-schema": "0.4.0",
+    "minimist": "1.2.8",
+    "proxy-addr": "2.0.8",
+    "sha.js": "2.4.12",
+    "socket.io-parser": "4.2.7",
+    "tar": "7.5.22",
+    "xml-crypto@3": "3.2.1"
   }
 }
